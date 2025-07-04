@@ -3,7 +3,8 @@
 ---
 
 **Step 1: Back Up Your Save Game 💾**  
-- Open File Explorer  
+
+- Open File Explorer
 - Navigate to:  
   `C:\Users\<YourName>\AppData\Roaming\EldenRing`  
 - Copy the entire **EldenRing** folder somewhere safe, like your Desktop or Documents  
